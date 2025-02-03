@@ -1,7 +1,7 @@
 const messages = [
     "Quắc??",
-    "Tại sao??",
-    "Em chắc chưa??",
+    "Ơ tại sao??",
+    "Em chắc chưa báo con kphun??",
     "Siêuuu chắc chắn chưa??",
     "Hứ t dỗi rồi)):<<<<",
     "Em thương yêu gì t",
